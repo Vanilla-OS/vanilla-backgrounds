@@ -4,4 +4,4 @@ Collection of Light and Dark backgrounds for Vanilla OS provided by [@kra-mo](ht
 
 | Light | Dark |
 | ----- | ---- |
-|![Light](backgrounds/vanilla-default.png) |![Dark](backgrounds/vanilla-dark.png) |
+|![Light](backgrounds/vanilla-default.webp) |![Dark](backgrounds/vanilla-dark.webp) |

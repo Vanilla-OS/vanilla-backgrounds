@@ -1,4 +1,10 @@
-vanilla-backgrounds (0.0.5) jammy; urgency=low
+vanilla-backgrounds (0.0.6) kinetic; urgency=low
+
+  * New Soft/Neon Wallpapers
+
+ -- Mirko Brombin <send@mirko.pm>  Wed, 8 Dec 2022 17:55:00 +0300
+
+vanilla-backgrounds (0.0.5) kinetic; urgency=low
 
   * Initial release
 

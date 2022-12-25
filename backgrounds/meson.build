@@ -2,7 +2,7 @@ dataconf = configuration_data()
 dataconf.set('BACKGROUNDDIR', backgrounddir)
 dataconf.set('datadir', datadir)
 
-backgrounds = ['vanilla-default.webp',  'vanilla-dark.webp', 'vanilla-soft.webp', 'vanilla-neon.webp']
+backgrounds = ['vanilla-default.webp',  'vanilla-dark.webp', 'vanilla-soft.webp', 'vanilla-neon.webp', 'vanilla-winter-l.png', 'vanilla-winter-d.png']
 
 install_data(backgrounds, install_dir: backgrounddir)
 

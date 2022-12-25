@@ -19,4 +19,13 @@
     <pcolor>#9988B0</pcolor>
     <scolor>#000000</scolor>
   </wallpaper>
+  <wallpaper deleted="false">
+    <name>Winter Background</name>
+    <filename>@BACKGROUNDDIR@/vanilla-winter-l.png</filename>
+    <filename-dark>@BACKGROUNDDIR@/vanilla-winter-d.png</filename-dark>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#6f81d4</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
 </wallpapers>

@@ -3,15 +3,35 @@ Maintainers:
 
 Image Authors:
 
- - vanilla-default.webp:
-   https://www.kramo.hu/images/vanilla-default.webp
-   Copyright © kramo
-   CC BY-SA 4.0 License.
+- vanilla-default.webp:
+  https://www.kramo.hu/images/vanilla-default.webp
+  Copyright © kramo
+  CC-BY-SA 4.0 License.
   
- - vanilla-dark.webp:
-   https://www.kramo.hu/images/vanilla-dark.webp
-   Copyright © kramo
-   CC BY-SA 4.0 License.
+- vanilla-dark.webp:
+  https://www.kramo.hu/images/vanilla-dark.webp
+  Copyright © kramo
+  CC-BY-SA 4.0 License.
+  
+- vanilla-soft.webp:
+  backgrounds/vanilla-soft.webp
+  Copyright © Mirko Brombin
+  CC-BY-SA 4.0 License.
+  
+- vanilla-neon.webp:
+  backgrounds/vanilla-neon.webp
+  Copyright © Mirko Brombin
+  CC-BY-SA 4.0 License.
+  
+- impellent-light.webp:
+  https://github.com/4e6anenk0/vanillaos-impellent-wallpaper/
+  Copyright © 4e6anenk0
+  CC-BY 4.0 License.
+  
+- impellent-dark.webp:
+  https://github.com/4e6anenk0/vanillaos-impellent-wallpaper/
+  Copyright © 4e6anenk0
+  CC-BY 4.0 License.
 
 License: CC-BY-SA
  You are free to:

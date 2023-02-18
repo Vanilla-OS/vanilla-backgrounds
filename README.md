@@ -4,8 +4,6 @@
   <sup2> A collection of light and dark backgrounds for Vanilla OS.</sup2>
   </div>
 
-A collection of light and dark backgrounds for Vanilla OS.
-
 | Title | Light | Dark |
 | ----- | ----- | ---- |
 | Vanilla by [@kra-mo](https://github.com/kra-mo) |![Light](backgrounds/vanilla-default.webp) |![Dark](backgrounds/vanilla-dark.webp) |

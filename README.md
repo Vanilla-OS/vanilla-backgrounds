@@ -1,6 +1,8 @@
-# Vanilla backgrounds
-
-A collection of light and dark backgrounds for Vanilla OS.
+<div align="center">
+  
+  # Vanilla Backgrounds
+  <sup2> A collection of light and dark backgrounds for Vanilla OS.</sup2>
+  </div>
 
 | Title | Light | Dark |
 | ----- | ----- | ---- |

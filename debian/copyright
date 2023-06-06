@@ -3,13 +3,13 @@ Maintainers:
 
 Image Authors:
 
-- vanilla-default.webp:
-  https://www.kramo.hu/images/vanilla-default.webp
+- vanilla-default.svg:
+  backgrounds/vanilla-default.svg
   Copyright © kramo
   CC-BY-SA 4.0 License.
   
-- vanilla-dark.webp:
-  https://www.kramo.hu/images/vanilla-dark.webp
+- vanilla-dark.svg:
+  backgrounds/vanilla-dark.svg
   Copyright © kramo
   CC-BY-SA 4.0 License.
   
@@ -32,6 +32,16 @@ Image Authors:
   https://github.com/4e6anenk0/vanillaos-impellent-wallpaper/
   Copyright © 4e6anenk0
   CC-BY 4.0 License.
+
+- orchid-light.svg:
+  backgrounds/orchid-light.svg
+  Copyright © kramo
+  CC-BY-SA 4.0 License.
+
+- orchid-dark.svg:
+  backgrounds/orchid-dark.svg
+  Copyright © kramo
+  CC-BY-SA 4.0 License.
 
 License: CC-BY-SA
  You are free to:

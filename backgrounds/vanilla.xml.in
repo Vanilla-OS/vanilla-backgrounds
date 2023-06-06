@@ -28,4 +28,13 @@
     <pcolor>#6f81d4</pcolor>
     <scolor>#000000</scolor>
   </wallpaper>
+  <wallpaper deleted="false">
+    <name>Orchid</name>
+    <filename>@BACKGROUNDDIR@/orchid-light.webp</filename>
+    <filename-dark>@BACKGROUNDDIR@/orchid-dark.webp</filename-dark>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#3071AE</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
 </wallpapers>

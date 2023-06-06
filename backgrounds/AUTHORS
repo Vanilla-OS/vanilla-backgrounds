@@ -1,12 +1,12 @@
 Image Authors:
 
-- vanilla-default.webp:
-  https://www.kramo.hu/images/vanilla-default.webp
+- vanilla-default.svg:
+  backgrounds/vanilla-default.svg
   Copyright © kramo
   CC-BY-SA 4.0 License.
   
-- vanilla-dark.webp:
-  https://www.kramo.hu/images/vanilla-dark.webp
+- vanilla-dark.svg:
+  backgrounds/vanilla-dark.svg
   Copyright © kramo
   CC-BY-SA 4.0 License.
   
@@ -30,12 +30,12 @@ Image Authors:
   Copyright © 4e6anenk0
   CC-BY 4.0 License.
 
-- orchid-light.webp:
-  backgrounds/orchid-light.webp
+- orchid-light.svg:
+  backgrounds/orchid-light.svg
   Copyright © kramo
   CC-BY-SA 4.0 License.
 
-- orchid-dark.webp:
-  backgrounds/orchid-dark.webp
+- orchid-dark.svg:
+  backgrounds/orchid-dark.svg
   Copyright © kramo
   CC-BY-SA 4.0 License.

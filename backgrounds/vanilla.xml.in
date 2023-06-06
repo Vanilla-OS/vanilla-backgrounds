@@ -3,8 +3,8 @@
 <wallpapers>
   <wallpaper deleted="false">
     <name>Default Background</name>
-    <filename>@BACKGROUNDDIR@/vanilla-default.webp</filename>
-    <filename-dark>@BACKGROUNDDIR@/vanilla-dark.webp</filename-dark>
+    <filename>@BACKGROUNDDIR@/vanilla-default.svg</filename>
+    <filename-dark>@BACKGROUNDDIR@/vanilla-dark.svg</filename-dark>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#3071AE</pcolor>
@@ -30,8 +30,8 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Orchid</name>
-    <filename>@BACKGROUNDDIR@/orchid-light.webp</filename>
-    <filename-dark>@BACKGROUNDDIR@/orchid-dark.webp</filename-dark>
+    <filename>@BACKGROUNDDIR@/orchid-light.svg</filename>
+    <filename-dark>@BACKGROUNDDIR@/orchid-dark.svg</filename-dark>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#3071AE</pcolor>

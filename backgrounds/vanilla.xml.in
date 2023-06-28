@@ -12,8 +12,8 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Soft Neon Background</name>
-    <filename>@BACKGROUNDDIR@/vanilla-soft.webp</filename>
-    <filename-dark>@BACKGROUNDDIR@/vanilla-neon.webp</filename-dark>
+    <filename>@BACKGROUNDDIR@/better-soft.webp</filename>
+    <filename-dark>@BACKGROUNDDIR@/better-neon.webp</filename-dark>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#9988B0</pcolor>

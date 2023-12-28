@@ -2,7 +2,13 @@ dataconf = configuration_data()
 dataconf.set('BACKGROUNDDIR', backgrounddir)
 dataconf.set('datadir', datadir)
 
-backgrounds = ['vanilla-default.svg',  'vanilla-dark.svg', 'better-soft.webp', 'better-neon.webp', 'impellent-light.webp', 'impellent-dark.webp', 'orchid-light.svg', 'orchid-dark.svg']
+backgrounds = [
+  'vanilla-default.svg',  'vanilla-dark.svg', 
+  'better-soft.webp', 'better-neon.webp', 
+  'impellent-light.webp', 'impellent-dark.webp', 
+  'orchid-light.svg', 'orchid-dark.svg', 
+  'petals_light.webp', 'petals_dark.webp'
+]
 
 install_data(backgrounds, install_dir: backgrounddir)
 

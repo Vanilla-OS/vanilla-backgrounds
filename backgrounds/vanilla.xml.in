@@ -29,6 +29,15 @@
     <scolor>#000000</scolor>
   </wallpaper>
   <wallpaper deleted="false">
+    <name>Petals</name>
+    <filename>@BACKGROUNDDIR@/petals_light.svg</filename>
+    <filename-dark>@BACKGROUNDDIR@/petals_dark.svg</filename-dark>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#3071AE</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper deleted="false">
     <name>Orchid</name>
     <filename>@BACKGROUNDDIR@/orchid-light.svg</filename>
     <filename-dark>@BACKGROUNDDIR@/orchid-dark.svg</filename-dark>

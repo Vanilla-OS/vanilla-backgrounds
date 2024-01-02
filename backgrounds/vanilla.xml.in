@@ -30,8 +30,8 @@
   </wallpaper>
   <wallpaper deleted="false">
     <name>Petals</name>
-    <filename>@BACKGROUNDDIR@/petals_light.svg</filename>
-    <filename-dark>@BACKGROUNDDIR@/petals_dark.svg</filename-dark>
+    <filename>@BACKGROUNDDIR@/petals_light.webp</filename>
+    <filename-dark>@BACKGROUNDDIR@/petals_dark.webp</filename-dark>
     <options>zoom</options>
     <shade_type>solid</shade_type>
     <pcolor>#3071AE</pcolor>

@@ -23,7 +23,7 @@ jobs:
         rm -r /run/host${{ runner.tool_cache }}
 
     - name: Install needed packages
-      run: apt update && apt install build-essential debhelper-compat dh-sequence-gnome libglib2.0-dev meson
+      run: apt update && apt install -y build-essential debhelper-compat dh-sequence-gnome libglib2.0-dev meson
 
     - name: Build debian package
       run: |

@@ -1,12 +1,13 @@
-name: build
+name: Build
 
 on:
   push:
     branches: [ "main" ]
+  pull_request:
 
 jobs:
   build:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-latest
     container:
       image: ghcr.io/vanilla-os/pico:main
       volumes:
@@ -33,7 +34,19 @@ jobs:
         dpkg-buildpackage --no-sign
         mv ../*.deb ../vanilla-backgrounds.deb
 
-    - uses: softprops/action-gh-release@v1
+    - name: Calculate and Save Checksums
+      run: |
+        sha256sum /__w/vanilla-backgrounds/vanilla-backgrounds.deb >> checksums.txt
+
+    - uses: actions/upload-artifact@v4
+      with:
+        name: vanilla-backgrounds
+        path: |
+          checksums.txt
+          /__w/vanilla-backgrounds/vanilla-backgrounds.deb
+
+    - uses: softprops/action-gh-release@v2
+      if: github.ref == 'refs/heads/main'
       with:
         token: "${{ secrets.GITHUB_TOKEN }}"
         tag_name: "continuous"
@@ -41,3 +54,4 @@ jobs:
         name: "Continuous Build"
         files: |
           /__w/vanilla-backgrounds/vanilla-backgrounds.deb
+          checksums.txt

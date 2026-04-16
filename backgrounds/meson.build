@@ -7,7 +7,8 @@ backgrounds = [
   'better-soft.webp', 'better-neon.webp', 
   'impellent-light.webp', 'impellent-dark.webp', 
   'orchid-light.svg', 'orchid-dark.svg', 
-  'petals_light.webp', 'petals_dark.webp'
+  'petals_light.webp', 'petals_dark.webp',
+  'fairy-tale-light.webp', 'fairy-tale-dark.webp'
 ]
 
 install_data(backgrounds, install_dir: backgrounddir)

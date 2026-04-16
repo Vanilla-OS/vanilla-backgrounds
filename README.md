@@ -11,3 +11,4 @@
 | Soft Neon by [@mirkobrombin](https://github.com/mirkobrombin) Colorized by [@mattcc23](https://github.com/mattcc23) |![Soft](backgrounds/better-soft.webp) |![Neon](backgrounds/better-neon.webp) |
 | Impellent by [@4e6anenk0](https://github.com/4e6anenk0) |![Winter Light](backgrounds/impellent-light.webp) |![Winter Dark](backgrounds/impellent-dark.webp) |
 | Vanilla by [@kra-mo](https://github.com/kra-mo) |![Light](backgrounds/vanilla-default.svg) |![Dark](backgrounds/vanilla-dark.svg) |
+| Fairy Tale by [@enner21](https://github.com/enner21) |![Fairy Tale Light](backgrounds/fairy-tale-light.webp) |![Fairy Tale Dark](backgrounds/fairy-tale-dark.webp) |

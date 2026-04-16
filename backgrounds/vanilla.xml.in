@@ -46,4 +46,13 @@
     <pcolor>#3071AE</pcolor>
     <scolor>#000000</scolor>
   </wallpaper>
+  <wallpaper deleted="false">
+    <name>Fairy Tale</name>
+    <filename>@BACKGROUNDDIR@/fairy-tale-light.webp</filename>
+    <filename-dark>@BACKGROUNDDIR@/fairy-tale-dark.webp</filename-dark>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#3071AE</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
 </wallpapers>
